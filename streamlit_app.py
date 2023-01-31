@@ -63,7 +63,7 @@ if streamlit.button('Get Fruit Load List'):
 
 
 # output it on the screen as a table
-streamlit.stop()
+
 #import snowflake.connector
 #streamlit.dataframe(fruityvice_normalized)
 #my_cnx = snowflake.connector.connect(**streamlit.secrets["snowflake"])
